@@ -53,7 +53,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
     return Scaffold(
       body: AnimatedOpacity(
-        opacity: _opacity,
+        opacity: 1,
         duration: Duration(seconds: 2), // Fades out over 2 seconds
         child: Container(
           decoration: BoxDecoration(color: Colors.black),
