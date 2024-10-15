@@ -1,5 +1,5 @@
 <svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="1280" height="640" fill="url(#paint0_linear_1_2)"/>
+<rect width="1280" height="640" rx="30" fill="url(#paint0_linear_1_2)"/>
 <rect x="980" y="201.971" width="7.76151" height="38.8075" rx="3.88075" fill="#333131"/>
 <rect x="1237.24" y="178.686" width="7.76151" height="42.1339" rx="3.88075" fill="#2E2C2C"/>
 <rect x="980" y="160.946" width="7.76151" height="38.8075" rx="3.88075" fill="#2E2C2C"/>
