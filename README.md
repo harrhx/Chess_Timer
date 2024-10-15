@@ -1,4 +1,4 @@
-![Chess Timer Banner](https://raw.githubusercontent.com/harrhx/Chess_Timer/210467b020a5d1e2af6c94be1e8353a4e7dac79c/images/Banner.svg)
+![Chess Timer Banner](https://raw.githubusercontent.com/harrhx/Chess_Timer/22e87c9885b2d580a1cc5412036c0530e862b36b/images/Banner.svg)
 
 # Chess Timer App
 
