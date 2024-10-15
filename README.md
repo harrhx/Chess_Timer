@@ -17,7 +17,7 @@ Follow these steps to install and run the Chess Timer app on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/chess_timer.git
+   git clone https://github.com/harrhx/chess_timer.git
    ```
    Replace `yourusername` with your GitHub username.
 
